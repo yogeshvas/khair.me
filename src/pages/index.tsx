@@ -26,7 +26,6 @@ import {
 } from "@/components/ui/carousel";
 import VanillaTilt from "vanilla-tilt";
 import { motion } from "framer-motion";
-import { AppleCardsCarouselDemo } from "@/components/Carousel";
 
 const aboutStats = [
   { label: "Years of experience", value: "3+" },
